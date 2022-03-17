@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+####**I'm a Computer Engineer**
+
+I'm still developing my skillset and soonest I'll make an update to this page.
+
+
+⚡ Fun fact: I love Jesus
 <!--
 **Ifechukwu001/Ifechukwu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
