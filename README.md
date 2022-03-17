@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-####**I'm a Computer Engineer**
+#### **I'm a Computer Engineer**
 
 I'm still developing my skillset and soonest I'll make an update to this page.
 
