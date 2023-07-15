@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Task management system<br>I'm also looking to collaborate on backend/DevOps projects<br>I'm presently learning Node.js
+I'm currently working on a SalesChat - WhatsApp Commerce Bot<br>I'm also looking to collaborate on backend/DevOps projects<br>I'm presently learning Node.js
 
 
 ## 🌐 Socials:
