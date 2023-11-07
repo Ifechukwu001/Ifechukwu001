@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on a SalesChat - WhatsApp Commerce Bot<br>I'm also looking to collaborate on backend/DevOps projects<br>I'm presently learning AI/ML
+A computer engineer with a strong foundation in computer science and engineering principles,
+including programming, data structures, algorithms, circuits and software design. Strong analytical
+and problem-solving skills. Passionate about coding and always looking for new challenges to
+improve skills and advance my career as a Software Engineer.
 
 
 ## 🌐 Socials:
